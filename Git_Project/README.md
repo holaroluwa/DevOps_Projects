@@ -45,7 +45,7 @@
 
 `git push origin "name of branch" `: sends your commits to the named remote repository
 
-
+![Alt text](<Images/Screenshot 2023-08-26 at 09.45.27.png>)
 
 
 
