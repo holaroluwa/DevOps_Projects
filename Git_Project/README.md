@@ -49,7 +49,6 @@
 
 # Branch Management and Tagging
 
-Introduction to markdown syntax
 
 
 
